@@ -1,0 +1,416 @@
+<html>
+<body bgcolor="#faebd7">
+
+
+<h1><a name="top" id="base">HTML基础</a></h1>
+
+<h2>简介</h2>
+<p>第一个段落</p>
+
+
+<h2>基础</h2>
+<p>段落</p>
+<!--用户无法查看图像，alt 属性可以为图像提供替代的信息。-->
+链接：<a href="https://www.baidu.com">百度</a><br>
+图像：<img src="timg.jpg" alt="胡列娜" width="638" height="338" align="top">
+
+
+<h2>元素</h2>
+<p>第一行<br/>第二行</p>
+
+
+<h2>属性</h2>
+链接的地址在 href 属性中指定：<a href="https://www.baidu.com">百度</a><br/>
+标题的对齐方式在 align 属性中指定：<h3 align="center">标题居中</h3>
+
+
+<h2>标题</h2>
+<h3>3号标题</h3>
+<h4>4号标题</h4>
+<p>hr标签在 HTML 页面中创建水平线。hr 元素可用于分隔内容：</p>
+<hr />
+<p>注释：</p>
+<!--我是注释-->
+
+
+<h2>段落</h2>
+<h3>春晓</h3>
+<p>
+春眠不觉晓，
+处处闻啼鸟。
+夜来风雨声，
+花落知多少？<br>
+    注意，浏览器忽略了源代码中的排版（省略了多余的空格和换行）。
+</p>
+
+
+<h2>样式：</h2>
+<p style="font-family: Verdana; color: red; font-size: 14px; align-content: center; background-color: cyan; text-align: left">
+    stype样式实现<br/>
+    字体：Verdana，颜色：红，字号：14px，背景色：青， 对齐方式：居左
+</p>
+<p align="center">
+    <font face="Times"; color="#00ffff"; size="3">
+        <center><u>旧的标签属性实现</u><br/>
+            <s>字体：Times，颜色：青，大小：3，背景色：古白， 对齐方式：居中</s>
+        </center>
+    </font>
+</p>
+
+
+<h2>格式化</h2>
+<p>
+    文本格式化标签<br/>
+    <b>粗体字</b>
+    <big>大号字</big>
+    <em>着重字</em>
+    <i>斜体字</i>
+    <small>小号字</small>
+    <strong>加重语气字</strong>
+    <sub>下标</sub>
+    <sup>上标</sup>
+    <ins>插入字</ins>
+    <del>删除字</del>
+</p>
+<p>
+    计算机输出标签，常用于显示计算机/编程代码<br/>
+    <code>
+        代码
+    </code>
+    <kbd>
+        键盘码
+    </kbd>
+    <samp>
+        计算机代码样本
+    </samp>
+    <tt>
+        打字机代码
+    </tt>
+    <var>
+        变量
+    </var>
+    <pre>
+        预格式文本保留了空格和换行，很适合显示计算机代码：
+        for (int i = 0, i < 5, i++) {
+            printf("%s", i);
+        }
+    </pre>
+</p>
+<p>
+    引用和术语定义：<br/>
+    <abbr title="application">app</abbr>
+    <acronym title="World Wide Web">www</acronym><br/>
+    把鼠标移至缩略词语上时，title 可用于展示表达的完整版本<br/>
+    <bdo dir="rtl">从右往左</bdo><br/>
+    <blockquote>
+        块引用
+    </blockquote>
+    <q>短引用</q>
+    blockquote 元素浏览器会插入换行和外边距，而 q 元素除了加上引号不会有任何特殊的呈现
+</p>
+
+
+<h2>引用</h2>
+<p>
+    <dfn title="World Health Organization">WHO</dfn> 成立于1948年。<br/>
+    <dfn><abbr title="World Health Organization">WHO</abbr></dfn> 成立于1948年。<br/>
+    <dfn>WHO</dfn> 成立于1948年。
+</p>
+
+
+<h2>注释</h2>
+<p>条件注释</p><br/>
+<!--[if IE 8]>
+<p>IE 8才执行</p>
+<![endif]-->
+
+
+<h2>CSS</h2>
+<a href="outCSSHTML.html">外部样式表</a><br/>
+<a href="inCSSHTML.html">内部样式表</a>
+<p style="color: black; background-color: red; margin-left: 10px">内联样式</p>
+
+
+<h2>链接</h2>
+<a href="inCSSHTML.html">本地链接</a><br/>
+<a href="https://www.baidu.com">百度（万维网链接）</a><br/>
+图片链接<a href="https://www.baidu.com"><img src="baidu.jpg" alt="百度" width="50" height="37"></a><br/>
+<a href="https://www.baidu.com" target="_blank">百度（新窗口打开）</a><br/>
+<a href="#top">回到页首（使用name）</a><br/>
+<a href="#base">回到页首（使用id）</a><br/>
+<a href="anchorsHTML.html#bottom">回到目录页尾</a><br/>
+<a href="https://www.baidu.com/" target="_top">百度</a><br/>
+<a href="mailto:xxx@163.com?subject=回家%20吃饭">发送邮件</a><br/>
+<a href="mailto:xxx@qq.com?cc=aaaa@qq.com&bcc=bbb@qq.com&subject=回家%20吃饭">发送邮件</a>
+
+
+<h2>图像</h2>
+<p>为插入的网络图像设置宽高：</p><br/>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606077666289&di=91a5b7a003fe39ecbc8b0e21240dd140&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_match%2F0%2F11578844823%2F0.jpg" alt="胡列娜" width="540" height="360"><br/>
+<p>插入另一个文件夹的gif动态图像（插入普通图像的语法没有区别）：</p><br/>
+<img src="source/timg.gif" alt="唐三和小舞"><br/>
+<a href="backgroundHTML.html">设置背景图像（gif 和 jpg 图像均可用作 HTML 背景。图像小于页面，图像会平铺。）</a><br/>
+<p>默认图像对齐方式为底部对齐:<img src="baidu.jpg" alt="百度" width="50" height="37"></p><br/>
+<p>居中对齐:<img src="baidu.jpg" alt="百度" width="50" height="37" align="center"></p><br/>
+<p>顶部对齐:<img src="baidu.jpg" alt="百度" width="50" height="37" align="top"></p><br/>
+<a href="leftImageHTML.html">带有图像的一个段落。图像的 align 属性设置为 "left"。图像将浮动到文本的左侧。</a><br/>
+<a href="rightImageHTML.html">带有图像的一个段落。图像的 align 属性设置为 "right"。图像将浮动到文本的右侧。</a><br/>
+<p>仅支持文本的浏览器无法显示图像，仅仅能够显示在图像的 "alt" 属性中指定的文本。无法显示图像，将显示 "alt" 属性中的文本：<img src="/source/huliena.jpeg" alt="胡列娜"></p><br/>
+<p>图像链接：<a href="https://www.baidu.com"><img src="baidu.jpg" alt="百度" width="50" height="37"></a></p><br/>
+<p>
+    点击图像上的星球：<br/>
+    <img src="source/eg_planets.jpg" alt="星球" border="0" usemap="#planetmap" align="center">
+    <map name="planetmap" id="planetmap">
+        <area shape="rect" coords="0, 0, 110, 260" href="https://www.w3school.com.cn/example/html/sun.html" alt="太阳" target="_parent">
+        <area shape="circle" coords="129,161,10" href="https://www.w3school.com.cn/example/html/mercur.html" alt="水星" target="_parent">
+        <area shape="circle" coords="180,139,14" href="https://www.w3school.com.cn/example/html/venus.html" alt="金星" target="_parent">
+    </map>
+    img 元素中的 "usemap" 属性引用 map 元素中的 "id" 或 "name" 属性（根据浏览器），所以我们同时向 map 元素添加了 "id" 和 "name" 属性。
+</p>
+<p>
+    当用户在 ismap 图像上单击了某处时，浏览器会自动把鼠标的 x、y 位置（相对于图像的左上角）发送到服务器端：<br/>
+    <a href="https://www.baidu.com/">
+        <img src="baidu.jpg" alt="胡列娜" width="100" height="74" ismap>
+    </a>
+</p>
+
+
+<h2>表格</h2>
+<p>
+    表格由 table 标签来定义。每个表格均有若干行（由 tr 标签定义），每行被分割为若干单元格（由 td 标签定义）。字母 td 指表格数据（table data），即数据单元格的内容。数据单元格可以包含文本、图片、列表、段落、表单、水平线、表格等等：
+</p>
+<table border="1">
+    <tr>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>20</td>
+    </tr>
+</table>
+<p>
+    border属性定义表格边框，如果不定义边框属性，表格将不显示边框：
+</p>
+<table>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>20</td>
+    </tr>
+</table>
+<p>
+    表格的表头使用 th 标签进行定义。大多数浏览器会把表头显示为粗体居中的文本：
+</p>
+<table border="2">
+    <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+    </tr>
+    <tr>
+        <td>张三</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>李四</td>
+        <td>15</td>
+    </tr>
+</table>
+<br/>
+<table border="10">
+    <tr>
+        <th>姓名</td>
+        <td>张三</td>
+        <td>李四</td>
+    </tr>
+    <tr>
+        <th>年龄</th>
+        <td>10</td>
+        <td>15</td>
+    </tr>
+</table>
+<p>
+    如果某个单元格是空的（没有内容），浏览器可能无法显示出这个单元格的边框。为了避免这种情况，在空单元格中添加一个空格占位符，就可以将边框显示出来：
+</p>
+<table border="1">
+    <tr>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+</table>
+<br/>
+<table border="1">
+    <tr>
+        <td>&nbsp;</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+</table>
+<p>caption标签定义标题，cellpadding属性表示边距，cellspacing属性表示间距，background属性表示背景图，bgcolor属性表示背景色，colspan属性表示跨列，rowspan表示属性跨行：：</p>
+<table border="5" cellspacing="20" bgcolor="red">
+    <caption>标题</caption>
+    <tr>
+        <th>1</th>
+        <th>2</th>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+</table>
+<p></p>
+<table border="5" cellpadding="10" background="source/page.jpeg">
+    <tr>
+        <th colspan="2">1</th>
+        <th>2</th>
+    </tr>
+    <tr>
+        <td rowspan="2">3</td>
+        <td>4</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>7</td>
+    </tr>
+</table>
+<p>表格中可以包含段落、表格、列表等：</p>
+<table border="5">
+    <tr>
+        <td>
+            <p>第一段</p>
+            <p>第二段</p>
+        </td>
+        <td>
+            <table border="1">
+                <tr>
+                    <td>a</td>
+                    <td>b</td>
+                </tr>
+                <tr>
+                    <td>c</td>
+                    <td>d</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>列表
+            <ul>
+                <li>一</li>
+                <li>二</li>
+            </ul>
+        </td>
+        <td>第四个单元格</td>
+    </tr>
+</table>
+<p>width属性表示宽，属性表示对齐方式：</p>
+<table border="5" width="200">
+    <tr>
+        <td align="left">1</td>
+        <td align="center">2</td>
+        <td align="right">3</td>
+    </tr>
+</table>
+<p>frame属性表示边框：</p>
+<table frame="box">
+    <tr>
+        <td>1</td>
+    </tr>
+</table>
+<br/>
+<table frame="above">
+    <tr>
+        <td>2</td>
+    </tr>
+</table>
+<br/>
+<table frame="below">
+    <tr>
+        <td>3</td>
+    </tr>
+</table>
+<br/>
+<table frame="hsides">
+    <tr>
+        <td>4</td>
+    </tr>
+</table>
+<br/>
+<table frame="vsides">
+    <tr>
+        <td>5</td>
+    </tr>
+</table>
+
+
+<h2>列表</h2>
+<p>无序列表是一个项目的列表，此列项目使用粗体圆点（典型的小黑圆圈）进行标记。无序列表始于 ul 标签。每个列表项始于 li。type标签表示列表类型（disc、circle、square分别为小圆点、小圆圈、小方框）：</p>
+<ul type="disc">
+    <li>
+        <ul type="circle">
+            <li>第一列</li>
+            <li>第二列</li>
+            <li>第三列</li>
+        </ul>
+    </li>
+    <li>
+        <ul type="square">
+            <li>第一列</li>
+            <li>第二列</li>
+            <li>第三列</li>
+        </ul>
+    </li>
+</ul>
+<p>有序列表也是一列项目，列表项目使用数字进行标记。有序列表始于 ol 标签。每个列表项始于 li 标签。type标签表示列表类型（1、a、A、i、I分别为数字列表、小写字母列表、大写字母列表、小写罗马数字列表、大写罗马数字列表）：</p>
+<ol type="1">
+    <li>
+        <ol type="a">
+            <li>第一列</li>
+            <li>第二列</li>
+            <li>第三列</li>
+        </ol>
+    </li>
+    <li>
+        <ol type="A">
+            <li>第一列</li>
+            <li>第二列</li>
+            <li>第三列</li>
+        </ol>
+    </li>
+    <li>
+        <ol type="i">
+            <li>第一列</li>
+            <li>第二列</li>
+            <li>第三列</li>
+        </ol>
+    </li>
+    <li>
+        <ol type="I">
+            <li>第一列</li>
+            <li>第二列</li>
+            <li>第三列</li>
+        </ol>
+    </li>
+</ol>
+<p>自定义列表不仅仅是一列项目，而是项目及其注释的组合。自定义列表以 dl 标签开始。每个自定义列表项以 dt 开始。每个自定义列表项的定义以 dd 开始：</p>
+<dl>
+    <dt>第一列</dt>
+    <dd>我是第一列</dd>
+    <dt>第二列</dt>
+    <dd>我是第二列</dd>
+</dl>
+
+
+</body>
+</html>
