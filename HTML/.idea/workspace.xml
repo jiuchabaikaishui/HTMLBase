@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81e5a213-4806-4ddb-a001-90976e9a27ca" name="Default Changelist" comment="" />
+    <list default="true" id="81e5a213-4806-4ddb-a001-90976e9a27ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/layoutHTML5New.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsiveHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableLayoutHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightImageHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/rightImageHTML.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +51,7 @@
       <updated>1606002083387</updated>
       <workItem from="1606002085204" duration="1703000" />
       <workItem from="1606005941565" duration="41722000" />
-      <workItem from="1606630856308" duration="226000" />
+      <workItem from="1606630856308" duration="11167000" />
     </task>
     <servers />
   </component>
@@ -52,10 +59,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="357" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606067314906">
+    <state x="357" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607271678043">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="357" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1606067314906" />
+    <state x="357" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1607271678043" />
+    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606641952129">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777@0.23.1280.777" timestamp="1606641952129" />
     <state x="141" y="50" key="SettingsEditor" timestamp="1606003652473">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
