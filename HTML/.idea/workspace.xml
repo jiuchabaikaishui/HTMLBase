@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81e5a213-4806-4ddb-a001-90976e9a27ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blueHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colsFrameHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colsRowsFrameHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greenHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iframeHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inFrameHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navFrameHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/noframesHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rowsFrameHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scriptHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xhtmlHTML.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anchorsHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/anchorsHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backgroundHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/backgroundHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/classHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divLayoutHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/divLayoutHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inCSSHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/inCSSHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layoutHTML5New.html" beforeDir="false" afterPath="$PROJECT_DIR$/layoutHTML5New.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftImageHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/leftImageHTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +47,7 @@
       <workItem from="1606002085204" duration="1703000" />
       <workItem from="1606005941565" duration="41722000" />
       <workItem from="1606630856308" duration="24870000" />
-      <workItem from="1607783487995" duration="5891000" />
+      <workItem from="1607783487995" duration="6414000" />
     </task>
     <servers />
   </component>
