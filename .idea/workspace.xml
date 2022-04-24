@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be35b0f-1d12-4660-bc6d-af96b3547c21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/HTML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/firstHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/firstHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Review.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -36,11 +44,25 @@
       <workItem from="1607842203432" duration="1147000" />
       <workItem from="1608359246363" duration="52000" />
       <workItem from="1608359494802" duration="625000" />
-      <workItem from="1608360237491" duration="292000" />
+      <workItem from="1608360237491" duration="473000" />
+      <workItem from="1624488766719" duration="938000" />
+      <workItem from="1624490534253" duration="370000" />
+      <workItem from="1624889597345" duration="264000" />
+      <workItem from="1624889887621" duration="1346000" />
+      <workItem from="1624893819226" duration="473000" />
+      <workItem from="1625007258058" duration="849000" />
+      <workItem from="1625009386875" duration="252000" />
+      <workItem from="1627115235264" duration="395000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="50" key="SettingsEditor" timestamp="1624889848245">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1624889848245" />
   </component>
 </project>
