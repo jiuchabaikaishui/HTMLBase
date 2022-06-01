@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="81e5a213-4806-4ddb-a001-90976e9a27ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anchorsHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/anchorsHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/divLayoutHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/divLayoutHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outCSSHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/outCSSHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/responsiveHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightImageHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/rightImageHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableLayoutHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableLayoutHTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +61,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mp3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,40 +78,39 @@
       <workItem from="1606005941565" duration="41722000" />
       <workItem from="1606630856308" duration="24870000" />
       <workItem from="1607783487995" duration="6414000" />
+      <workItem from="1651488189241" duration="9610000" />
+      <workItem from="1652230968337" duration="11780000" />
+      <workItem from="1653267998161" duration="2865000" />
+      <workItem from="1653881228920" duration="4428000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="97" key="#Inspections" timestamp="1607437864232">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="274" y="95" key="#Inspections" timestamp="1652174325866">
+      <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="274" y="97" key="#Inspections/0.23.1280.777@0.23.1280.777" timestamp="1607437864232" />
-    <state x="240" y="77" key="#Intentions" timestamp="1607437829515">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="274" y="95" key="#Inspections/0.25.1280.775@0.25.1280.775" timestamp="1652174325866" />
+    <state x="313" y="45" width="597" height="735" key="find.popup" timestamp="1653890731874">
+      <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="240" y="77" key="#Intentions/0.23.1280.777@0.23.1280.777" timestamp="1607437829515" />
-    <state x="422" y="197" key="#Web_Browsers" timestamp="1607439436274">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="313" y="45" width="597" height="735" key="find.popup/0.25.1280.775@0.25.1280.775" timestamp="1653890731874" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1652257031478">
+      <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="422" y="197" key="#Web_Browsers/0.23.1280.777@0.23.1280.777" timestamp="1607439436274" />
-    <state x="357" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607271678043">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="357" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1607271678043" />
-    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606641952129">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777@0.23.1280.777" timestamp="1606641952129" />
-    <state x="141" y="50" key="SettingsEditor" timestamp="1606003652473">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1606003652472" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1606408376995">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1606408376995" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1652257031478" />
   </component>
 </project>
