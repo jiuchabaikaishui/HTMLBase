@@ -21,13 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81e5a213-4806-4ddb-a001-90976e9a27ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anchorsHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/anchorsHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divLayoutHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/divLayoutHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outCSSHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/outCSSHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsiveHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/responsiveHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightImageHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/rightImageHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tableLayoutHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableLayoutHTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,10 @@
       <recent name="$PROJECT_DIR$/mp3" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="81e5a213-4806-4ddb-a001-90976e9a27ca" name="Default Changelist" comment="" />
@@ -81,12 +77,19 @@
       <workItem from="1651488189241" duration="9610000" />
       <workItem from="1652230968337" duration="11780000" />
       <workItem from="1653267998161" duration="2865000" />
-      <workItem from="1653881228920" duration="4428000" />
+      <workItem from="1653881228920" duration="5148000" />
+      <workItem from="1654162231928" duration="215000" />
+      <workItem from="1654214523038" duration="633000" />
+      <workItem from="1654216744120" duration="105000" />
+      <workItem from="1654217121976" duration="62000" />
+      <workItem from="1654217208665" duration="191000" />
+      <workItem from="1654217971507" duration="444000" />
+      <workItem from="1654394802520" duration="1403000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -98,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="95" key="#Inspections" timestamp="1652174325866">
